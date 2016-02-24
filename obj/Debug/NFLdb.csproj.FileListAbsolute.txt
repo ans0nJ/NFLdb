@@ -1,0 +1,9 @@
+C:\Users\Anson\Documents\Visual Studio 2015\Projects\NFLdb\bin\Debug\NFLdb.exe.config
+C:\Users\Anson\Documents\Visual Studio 2015\Projects\NFLdb\bin\Debug\NFLdb.exe
+C:\Users\Anson\Documents\Visual Studio 2015\Projects\NFLdb\bin\Debug\NFLdb.pdb
+C:\Users\Anson\Documents\Visual Studio 2015\Projects\NFLdb\obj\Debug\NFLdb.Form1.resources
+C:\Users\Anson\Documents\Visual Studio 2015\Projects\NFLdb\obj\Debug\NFLdb.Properties.Resources.resources
+C:\Users\Anson\Documents\Visual Studio 2015\Projects\NFLdb\obj\Debug\NFLdb.csproj.GenerateResource.Cache
+C:\Users\Anson\Documents\Visual Studio 2015\Projects\NFLdb\obj\Debug\NFLdb.exe
+C:\Users\Anson\Documents\Visual Studio 2015\Projects\NFLdb\obj\Debug\NFLdb.pdb
+C:\Users\Anson\Documents\Visual Studio 2015\Projects\NFLdb\obj\Debug\NFLdb.csprojResolveAssemblyReference.cache
